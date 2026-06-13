@@ -1,0 +1,42 @@
+name: Request a free public homepage teardown
+description: Submit a live B2B SaaS homepage for a concise public conversion review
+title: "Public teardown request: "
+labels: ["teardown-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submit a live B2B SaaS homepage for a concise public review. Do not include confidential information.
+  - type: input
+    id: url
+    attributes:
+      label: Homepage URL
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: input
+    id: audience
+    attributes:
+      label: Target customer
+      placeholder: Small B2B agencies with overdue invoices
+    validations:
+      required: true
+  - type: dropdown
+    id: goal
+    attributes:
+      label: Primary conversion goal
+      options:
+        - Trial signup
+        - Demo request
+        - Direct purchase
+        - Waitlist signup
+        - Other
+    validations:
+      required: true
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Public review consent
+      options:
+        - label: I understand the review and submitted URL will remain public on GitHub.
+          required: true
