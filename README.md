@@ -40,6 +40,12 @@ Review an illustrative report showing the diagnosis, rewritten hero and CTA, and
 Submit a live B2B SaaS homepage through the GitHub issue form:
 
 **https://github.com/mt211211/saas-homepage-conversion-checklist/issues/new/choose**
+
+## Get one public conversion critique
+
+Share your homepage, target customer, and primary conversion action in the GitHub discussion:
+
+**https://github.com/mt211211/saas-homepage-conversion-checklist/discussions/2**
 ## Focused review
 
 For the three highest-priority issues, rewritten hero and CTA copy, and one recommended experiment delivered within 24 hours:
