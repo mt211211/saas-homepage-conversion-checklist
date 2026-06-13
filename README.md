@@ -29,6 +29,17 @@ Get an instant score across positioning, proof, CTA clarity, and buying friction
 
 **https://mt211211.github.io/conversion-desk-site/scorecard.html**
 
+## See a full sample
+
+Review an illustrative report showing the diagnosis, rewritten hero and CTA, and recommended experiment:
+
+**https://mt211211.github.io/conversion-desk-site/sample-teardown.html**
+
+## Request a free public teardown
+
+Submit a live B2B SaaS homepage through the GitHub issue form:
+
+**https://github.com/mt211211/saas-homepage-conversion-checklist/issues/new/choose**
 ## Focused review
 
 For the three highest-priority issues, rewritten hero and CTA copy, and one recommended experiment delivered within 24 hours:
